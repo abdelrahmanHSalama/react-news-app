@@ -1,6 +1,6 @@
 # News App
 
-Built using HTML, CSS, JS and React.
+A responsive news application displaying real-time articles from various sources, featuring a responsive and a user-friendly interface.
 
 Please try it on your machine because the API doesn't allow any requests except from localhost on the free plan.
 
